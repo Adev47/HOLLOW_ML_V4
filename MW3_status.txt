@@ -1,5 +1,5 @@
 HOLLOW SILENT,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/u237cgatAh2.exe
-HOLLOW NOVA,online,1.00.09,https://raw.githubusercontent.com/Adev47/HOLLOW_ML_V4/main/uploads/MWIII_Chair__Blocker.exe
+HOLLOW NOVA,online,1.00.10,https://raw.githubusercontent.com/Adev47/HOLLOW_ML_V4/main/uploads/MWIII_2.exe
 HOLLOW UA V4,online,1.00.09,https://raw.githubusercontent.com/Adev47/HOLLOW_ML_V4/main/uploads/MWIII_1.exe
 HOLLOW UA V4 NO RECOIL,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MWIII_UA__NO_RECOIL.exe
 HOLLOW AIO,online,1.00.03,https://raw.githubusercontent.com/Adev47/HOLLOW_ML_V4/main/uploads/MW3_AIO__Blocker_2.exe
