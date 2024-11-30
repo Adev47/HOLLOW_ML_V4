@@ -1,0 +1,13 @@
+[design]
+highlight_color = #b400ff
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/fnCDnQnuZP
+website_link = https://hollow-corp.sellauth.com/
+guide_link = https://hollow-guide.gitbook.io/hollow-corp-guide
+
+[rounded_corners]
+main_widgets = 12
