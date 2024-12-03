@@ -1,5 +1,5 @@
 Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/hollow_default_logo.gif
-News_Page,1.00.02,https://cdn.gamekult.com/optim/images/gallery/37/370006/call-of-duty-black-ops-6-pc-ps5-xbox-x-s-508347bb__220_220__0-0-720-720.jpg
+News_Page,1.00.03,https://cdn.discordapp.com/attachments/1253077709857488960/1313522193849651231/IMG_1627.jpg?ex=6750705f&is=674f1edf&hm=77c05a63012a72fa273bdc1f17a3e2190d498ff3140d8eb621f025c88bbfb7d5&
 Lateral_Menu,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/default_lateral.png
 Background,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/hollow_default_background.png
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
