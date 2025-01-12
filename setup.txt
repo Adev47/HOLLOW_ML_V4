@@ -1,8 +1,8 @@
 [design]
-highlight_color = #b400ff
-loader_box_color = #070707
-main_text_color = #ededed
-main_widgets_color = #050505
+highlight_color = #1DABFF
+loader_box_color = #F1F1F1
+main_text_color = #FFFFFF
+main_widgets_color = #F5F5F5
 
 [links]
 discord_link = https://discord.gg/fnCDnQnuZP
